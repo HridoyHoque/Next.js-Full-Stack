@@ -6,7 +6,7 @@
     justify-content: space-between;
   }
   
-  /* .social {
+  .social {
     display: flex;
     align-items: center;
     gap: 10px;
@@ -16,4 +16,4 @@
     opacity: 0.6;
     cursor: pointer;
   }
-   */
+  
